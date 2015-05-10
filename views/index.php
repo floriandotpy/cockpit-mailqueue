@@ -42,3 +42,4 @@
         <h1>The queue is empty</h1>
         <p>There are currently no pending emails in the queue</p>
     @endif
+</div>
