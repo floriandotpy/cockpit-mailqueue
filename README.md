@@ -9,7 +9,7 @@ mailer from Cockpit is used, so there is no additional configuration needed.
 
 ```
 cd path/to/cockpit/modules/addons
-git clone git@github.com:florianletsch/cockpit-mailqueue.git Mailqueue
+git clone https://github.com/florianletsch/cockpit-mailqueue.git Mailqueue
 ```
 
 1. Download or clone
